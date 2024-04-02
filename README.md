@@ -10,3 +10,4 @@ Run your Python script with the file path as a command-line argument. For exampl
 python your_script.py /path/to/your/file
 
 In this command, python runs the Python interpreter, your_script.py is the name of your Python script, and /path/to/your/file is the file path you want to pass to the script. You should replace these with the actual names on your system.
+# In order to access the GUI file load the .h5 file and then run the gui file
